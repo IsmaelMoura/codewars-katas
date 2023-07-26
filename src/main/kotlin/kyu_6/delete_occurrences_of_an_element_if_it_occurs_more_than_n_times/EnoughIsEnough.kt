@@ -17,6 +17,8 @@ package kyu_6.delete_occurrences_of_an_element_if_it_occurs_more_than_n_times
  * next [1,2] since this would lead to 1 and 2 being in the result 3 times, and then take 3, which leads
  * to [1,2,3,1,2,3].
  * With list [20,37,20,21] and number 1, the result would be [20,37,21].
+ *
+ * Kata link: https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/kotlin
  */
 object EnoughIsEnough {
 
