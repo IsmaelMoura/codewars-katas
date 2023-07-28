@@ -1,10 +1,10 @@
 package kyu_8.returning_strings
 
-import kyu_8.returning_strings.Solution.greet
+import kyu_8.returning_strings.ReturningStrings.greet
 import org.junit.Test
 import org.junit.jupiter.api.Assertions.*
 
-class SolutionTest {
+class ReturningStringsTest {
     @Test
     fun `Basic tests`() {
         assertEquals(greet("Ryan"), "Hello, Ryan how are you doing today?")
